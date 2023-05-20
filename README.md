@@ -26,14 +26,14 @@ Before running the script, ensure that you have the following:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/script-generator.git
+   git clone https://github.com/sittangwesa/script-generator.git
 
 ## Setup
 
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/script-generator.git
+   git clone https://github.com/sittangwesa/script-generator.git
 
 
 2. Install the required dependencies:
