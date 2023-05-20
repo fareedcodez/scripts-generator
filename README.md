@@ -26,10 +26,9 @@ Before running the script, ensure that you have the following:
 
 1. Clone the repository:
    ```bash
-   mkdir python-scripts-generator
-   cd python-scripts-generator
+
    git clone https://github.com/sittangwesa/scripts-generator
-   cd python-scripts-generator
+   cd scripts-generator
   
 
 ## Setup
