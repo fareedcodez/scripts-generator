@@ -37,11 +37,11 @@ Before running the script, ensure that you have the following:
 
 Install the required dependencies:
 
-pip install -r requirements.txt
+      pip install -r requirements.txt
 
 Create a .env file in the project root directory and add the following content:
 
-KEY=<your_openai_api_key>
+         KEY=<your_openai_api_key>
 
 Replace <your_openai_api_key> with your OpenAI API key.
 
@@ -56,7 +56,9 @@ python script_generator.py -p "<prompt>" -f "<file_name>"
 
 - Interactive Mode
 To run the script in interactive mode, use the following command:
-   python script_generator.py -i
+   
+       python script_generator.py -i
+   
 In interactive mode, you will be prompted to enter the prompt and file name for generating the script. You can also choose to delete or edit any generated scripts.
    
    ## Examples
