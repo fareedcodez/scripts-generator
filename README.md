@@ -40,7 +40,7 @@ Before running the script, ensure that you have the following:
 
       pip install -r requirements.txt
 
-Create a .env file in the project root directory and add the following content:
+3. Create a .env file in the project root directory and add the following content:
 
          KEY=<your_openai_api_key>
 
@@ -52,7 +52,7 @@ Replace <your_openai_api_key> with your OpenAI API key.
 - 
 To generate a script using the command-line interface, use the following command
 
-python script_generator.py -p "<prompt>" -f "<file_name>"
+      python script_generator.py -p "<prompt>" -f "<file_name>"
 
    Replace <prompt> with the prompt for generating the script, and <file_name> with the desired name of the output file.
 
