@@ -33,9 +33,10 @@ Before running the script, ensure that you have the following:
 1. Clone the repository:
 
    ```shell
-   git clone <repository_url>
+   git clone https://github.com/your-username/script-generator.git
 
-Install the required dependencies:
+
+2. Install the required dependencies:
 
       pip install -r requirements.txt
 
@@ -48,6 +49,7 @@ Replace <your_openai_api_key> with your OpenAI API key.
 ## Usage
 
 - Command-line Interface
+- 
 To generate a script using the command-line interface, use the following command
 
 python script_generator.py -p "<prompt>" -f "<file_name>"
@@ -55,6 +57,7 @@ python script_generator.py -p "<prompt>" -f "<file_name>"
    Replace <prompt> with the prompt for generating the script, and <file_name> with the desired name of the output file.
 
 - Interactive Mode
+   
 To run the script in interactive mode, use the following command:
    
        python script_generator.py -i
