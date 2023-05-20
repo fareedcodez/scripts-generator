@@ -26,14 +26,16 @@ Before running the script, ensure that you have the following:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sittangwesa/script-generator.git
+   git clone https://github.com/sittangwesa/scripts-generator
+   cd python-scripts-generatoe
+  
 
 ## Setup
 
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/sittangwesa/script-generator.git
+   git clone https://github.com/sittangwesa/script-generator
 
 
 2. Install the required dependencies:
