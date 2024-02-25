@@ -1,6 +1,5 @@
 # Script Generator
 
-![OpenAI](https://img.shields.io/badge/OpenAI-API-1B1B1B?logo=openai)
 
 This script utilizes the power of the OpenAI API to generate Python scripts based on user prompts. It provides an interactive mode for generating scripts on-the-fly and a single-prompt mode for generating a script with a specific prompt.
 
