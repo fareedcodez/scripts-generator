@@ -35,7 +35,7 @@ Before running the script, ensure that you have the following:
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/sittangwesa/script-generator
+   git clone https://github.com/fareedcodez/script-generator
 
 
 2. Install the required dependencies:
