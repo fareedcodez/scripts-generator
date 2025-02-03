@@ -26,7 +26,7 @@ Before running the script, ensure that you have the following:
 1. Clone the repository:
    ```bash
 
-   git clone https://github.com/sittangwesa/scripts-generator
+   git clone https://github.com/fareedcodez/scripts-generator
    cd scripts-generator
   
 
